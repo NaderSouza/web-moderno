@@ -11,4 +11,4 @@ console.log (imposto);
 console.log ("\nPreco Final = " + precoFinal);
 
 nome = "Caneta Azul"
-console.log (nome); 
+console.log (nome);
