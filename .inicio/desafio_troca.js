@@ -13,3 +13,4 @@ b = temp;
 console.log("\nValores trocados:");
 console.log("a:", a);
 console.log("b:", b);
+
