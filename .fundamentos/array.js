@@ -17,3 +17,4 @@ console.log (valores)
 
 console.log (typeof valores)
 
+
